@@ -1,75 +1,123 @@
-<h1 align="center">Hey, I'm Reyan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>IT Help Desk Coordinator → Azure Cloud Engineer (in progress)</b><br/>
-  Chicago, IL &nbsp;•&nbsp; No degree &nbsp;•&nbsp; Just reps
-</p>
+# Reyan Qureshi
+### Cloud Security & Identity Engineer in Progress
+*IT professional breaking into cloud security through certifications, automation, and real-world Entra ID administration*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=flat-square&logo=comptia" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia" />
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/SC--300-In%20Progress-orange?style=flat-square&logo=microsoft" />
-  <img src="https://img.shields.io/badge/AZ--104-Planned-lightgrey?style=flat-square&logo=microsoftazure" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyanqureshi)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@reyanqureshi)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I'm a 21-year-old IT professional in Chicago breaking into Azure cloud engineering through certifications and hands-on labs — no degree required.
+I'm an IT Help Desk Coordinator at the **Water Quality Association** with hands-on experience in **Microsoft Entra ID administration**, system administration, and IT operations. I'm actively transitioning into **Cloud Security / IAM Engineering** — building the skills, certs, and portfolio to get there.
 
-At my current role I work daily with **Microsoft Entra ID**, manage system administration, and automate IT workflows with **PowerShell**. I document everything I build so others can follow the same path.
+No CS degree. Just certifications, real-world experience, and a lot of late nights.
 
----
-
-## 📜 Certifications
-
-| Certification | Status |
-|---|---|
-| CompTIA A+ | ✅ Earned |
-| CompTIA Security+ | ✅ Earned |
-| Microsoft AZ-900 (Azure Fundamentals) | ✅ Earned |
-| Microsoft SC-300 (Identity & Access Admin) | 🔄 In Progress |
-| Microsoft AZ-104 (Azure Administrator) | 📅 Planned |
+- 🏢 Currently: IT Help Desk Coordinator @ WQA
+- 🎯 Target: Cloud Security Engineer / Identity & Access Management Engineer
+- 🔐 Daily work: Microsoft Entra ID, Azure, user lifecycle management
+- ⚙️ Building: PowerShell automation scripts for identity management
+- 📚 Studying: SC-300 (Microsoft Identity and Access Administrator)
+- 📍 Based in: Chicagoland, IL
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**Identity & Security**
+
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure Active Directory](https://img.shields.io/badge/Azure%20AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Scripting & Automation**
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Development**
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| CompTIA A+ | CompTIA | ✅ Earned |
+| CompTIA Security+ | CompTIA | ✅ Earned |
+| Azure Fundamentals (AZ-900) | Microsoft | ✅ Earned |
+| Identity & Access Administrator (SC-300) | Microsoft | 🔄 In Progress |
 
 ---
 
 ## 📂 Featured Projects
 
-| Repo | What It Is |
-|---|---|
-| 🔐 [entra-id-scripts](https://github.com/reyanqureshi/entra-id-scripts) | Real PowerShell scripts I use for Entra ID admin tasks at work |
-| 📚 [it-career-launchpad](https://github.com/reyanqureshi/it-career-launchpad) | Breaking into IT/Cloud with no degree — my full guide |
+### 🔐 [Entra ID Automation Scripts](https://github.com/reyanqureshi/entra-id-automation)
+> PowerShell scripts for automating identity lifecycle management in Microsoft Entra ID — user provisioning, access reviews, MFA enforcement reporting, and offboarding automation.
+>
+> `PowerShell` `Microsoft Graph API` `Entra ID` `Automation`
 
 ---
 
-## 🎯 Currently Working On
-
-- 📖 Studying for **SC-300** — Microsoft Identity & Access Administrator
-- 🔧 Building **PowerShell automation scripts** for Entra ID
-- 📱 iOS development with Swift + Firebase
-- 🎥 TikTok [@reyanqureshi](https://tiktok.com/@reyanqureshi) — IT careers & breaking into tech
+### 🏗️ [Azure Identity & Security Home Lab](https://github.com/reyanqureshi/azure-identity-lab)
+> A documented Azure home lab environment simulating enterprise identity infrastructure — Active Directory, Entra ID Connect, Conditional Access policies, and Microsoft Sentinel for SIEM/log monitoring.
+>
+> `Azure` `Active Directory` `Microsoft Sentinel` `Conditional Access`
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyanqureshi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyanqureshi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 📱 [QuranIn30](https://github.com/reyanqureshi/quranin30)
+> An iOS app built with SwiftUI and Firebase to guide users through a structured 30-day Quran reading plan. Features Apple Sign-In, progress tracking, and StoreKit for in-app purchases.
+>
+> `SwiftUI` `Firebase` `StoreKit` `iOS`
 
 ---
 
-<p align="center"><i>"You don't need a degree to build a career in tech. You need reps."</i></p>
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Reyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyanqureshi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyanqureshi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0078D4)
+
+</div>
+
+---
+
+## 🎯 2025–2026 Roadmap
+
+- [x] CompTIA A+
+- [x] CompTIA Security+
+- [x] AZ-900 Azure Fundamentals
+- [ ] SC-300 Identity & Access Administrator *(in progress)*
+- [ ] AZ-104 Azure Administrator
+- [ ] SC-200 Security Operations Analyst
+- [ ] AZ-500 Azure Security Engineer
+- [ ] First Cloud Security / IAM Engineer role
+
+---
+
+## 📲 Content & Community
+
+I create content on **TikTok** about breaking into tech without a degree — covering IT career tips, certifications, and real-world experience from the help desk to the cloud.
+
+🎥 [@reyanqureshi on TikTok](https://tiktok.com/@reyanqureshi)
+
+---
+
+<div align="center">
+<i>Open to Cloud Security, IAM Engineering, and Azure Security roles. Let's connect.</i>
+</div>
